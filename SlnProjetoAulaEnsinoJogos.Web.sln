@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31911.196
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "0 - Presentation", "0 - Presentation", "{80E5D3E8-01E1-4C10-A4BE-A1D225838C8D}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1 - Application", "1 - Application", "{BB85F832-611F-4500-9C4C-2E9824E89645}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TKMaster.AulaEnsinoJogos.Web.UI", "src\TKMaster.AulaEnsinoJogos.Web.UI\TKMaster.AulaEnsinoJogos.Web.UI.csproj", "{AB8CA967-91B3-435A-87E5-F0EF398AFD90}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AB8CA967-91B3-435A-87E5-F0EF398AFD90}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AB8CA967-91B3-435A-87E5-F0EF398AFD90}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AB8CA967-91B3-435A-87E5-F0EF398AFD90}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AB8CA967-91B3-435A-87E5-F0EF398AFD90}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{AB8CA967-91B3-435A-87E5-F0EF398AFD90} = {80E5D3E8-01E1-4C10-A4BE-A1D225838C8D}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4CC0659E-1DB6-400A-9488-061B79A22FF3}
+	EndGlobalSection
+EndGlobal
