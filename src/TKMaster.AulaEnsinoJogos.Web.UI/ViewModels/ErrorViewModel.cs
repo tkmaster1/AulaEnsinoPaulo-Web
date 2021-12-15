@@ -1,6 +1,6 @@
 using System;
 
-namespace TKMaster.AulaEnsinoJogos.Web.UI.Models
+namespace TKMaster.AulaEnsinoJogos.Web.UI.ViewModels
 {
     public class ErrorViewModel
     {

@@ -7,7 +7,9 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "0 - Presentation", "0 - Pre
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1 - Application", "1 - Application", "{BB85F832-611F-4500-9C4C-2E9824E89645}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TKMaster.AulaEnsinoJogos.Web.UI", "src\TKMaster.AulaEnsinoJogos.Web.UI\TKMaster.AulaEnsinoJogos.Web.UI.csproj", "{AB8CA967-91B3-435A-87E5-F0EF398AFD90}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TKMaster.AulaEnsinoJogos.Web.UI", "src\TKMaster.AulaEnsinoJogos.Web.UI\TKMaster.AulaEnsinoJogos.Web.UI.csproj", "{AB8CA967-91B3-435A-87E5-F0EF398AFD90}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TKMaster.AulaEnsinoJogos.Web.UI.Application", "src\TKMaster.AulaEnsinoJogos.Web.UI.Application\TKMaster.AulaEnsinoJogos.Web.UI.Application.csproj", "{5AC0435D-F637-419C-96F4-F046EDAABF55}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -19,12 +21,17 @@ Global
 		{AB8CA967-91B3-435A-87E5-F0EF398AFD90}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AB8CA967-91B3-435A-87E5-F0EF398AFD90}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AB8CA967-91B3-435A-87E5-F0EF398AFD90}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5AC0435D-F637-419C-96F4-F046EDAABF55}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5AC0435D-F637-419C-96F4-F046EDAABF55}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5AC0435D-F637-419C-96F4-F046EDAABF55}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5AC0435D-F637-419C-96F4-F046EDAABF55}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{AB8CA967-91B3-435A-87E5-F0EF398AFD90} = {80E5D3E8-01E1-4C10-A4BE-A1D225838C8D}
+		{5AC0435D-F637-419C-96F4-F046EDAABF55} = {BB85F832-611F-4500-9C4C-2E9824E89645}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {4CC0659E-1DB6-400A-9488-061B79A22FF3}

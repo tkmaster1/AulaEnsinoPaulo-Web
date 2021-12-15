@@ -1,11 +1,7 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Logging;
-using System;
-using System.Collections.Generic;
 using System.Diagnostics;
-using System.Linq;
-using System.Threading.Tasks;
-using TKMaster.AulaEnsinoJogos.Web.UI.Models;
+using TKMaster.AulaEnsinoJogos.Web.UI.ViewModels;
 
 namespace TKMaster.AulaEnsinoJogos.Web.UI.Controllers
 {
